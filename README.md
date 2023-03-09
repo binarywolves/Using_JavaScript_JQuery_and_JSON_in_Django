@@ -4,6 +4,6 @@
 
 ### Credit goes to:
 
-*  ### Charles Russell Severance, Clinical Professor 
+*  Charles Russell Severance, Clinical Professor 
 *  University of Michigan 
 *  Coursera
